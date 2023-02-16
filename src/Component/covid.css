@@ -1,0 +1,17 @@
+h1,h2{
+    text-align: center;
+    justify-content: center;
+
+}
+
+.card{
+    border: 1px solid white;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(199, 108, 108);
+    color: white;
+    height: 25%;
+    width: 25%;
+    display: inline-block;
+    margin-left: 200px;
+}
